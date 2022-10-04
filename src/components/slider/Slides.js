@@ -7,7 +7,7 @@ const slidesInfo = [
     alt: "Project 1",
     desc: "Project 1",
     title: "Project 1",
-    href: "https://precious-gumdrop-5bdb35.netlify.app/",
+    href: "https://luisurdaneta-pi.netlify.app/",
   },
   {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664221258/Portfolio_Images/Imagen_PF_xuzzvv.jpg",
