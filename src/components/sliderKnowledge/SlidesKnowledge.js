@@ -3,6 +3,11 @@ import "./SliderKnowledge.css";
 
 const slidesInfo = [
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1665178791/Henry/Henry_Certificate_-_Luis_Urdaneta_njvevb.jpg",
+    alt: " Certificado Full Stack Web Developer",
+    desc: "Full Stack Web Developer",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664222868/Certificados%20Platzi/diploma-redux_nzeuhw.jpg",
     alt: " Certificado Redux",
     desc: "Redux",
