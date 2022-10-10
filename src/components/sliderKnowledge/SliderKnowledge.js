@@ -8,7 +8,7 @@ const SliderKnowledge = () => {
   return (
     <div className="carousel-container">
       <div className="carousel-title">
-        <h2>Mis Certificados</h2>
+        <h2>Mis Conocimientos</h2>
       </div>
 
       <Carousel

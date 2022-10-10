@@ -10,7 +10,7 @@ const Footer = () => {
       </div>
       <div className="footer-contact">
         <h3>Contáctame</h3>
-        {/* <p>Y trabajemos juntos</p> */}
+        <p>contacto@luisurdaneta.com</p>
       </div>
       <div className="footer-sns">
         <div className="design-by">Diseñado por Luis Urdaneta</div>
