@@ -97,6 +97,21 @@ const slidesInfo = [
     alt: "Certificado Applied Data Science II",
     desc: "Applied Data Science II",
   },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1666307657/Certificados%20Dev/Certificado_TensorFlow_Udemy_pyhxht.jpg",
+    alt: "Certificado TensorFlow para Deep Learning y Python",
+    desc: "TensorFlow para Deep Learning y Python",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1666307656/Certificados%20Dev/Certificado_Machine_Learning_Udemy_nojpjq.jpg",
+    alt: "Certificado Curso Básico de Machine Learning",
+    desc: "Curso Básico de Machine Learning",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1666307656/Certificados%20Dev/Certificado_Python_Udemy_jc9ih6.jpg",
+    alt: "Certificado Curso de Python",
+    desc: "Curso de Python",
+  },
 ];
 
 const SlidesKnowledge = slidesInfo.map((slide) => (
