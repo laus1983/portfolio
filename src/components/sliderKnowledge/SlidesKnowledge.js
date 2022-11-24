@@ -8,6 +8,11 @@ const slidesInfo = [
     desc: "Full Stack Web Developer",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1669333509/Certificados%20Platzi/diploma-docker_page-0001_lkxhxg.jpg",
+    alt: " Certificado Docker",
+    desc: "Docker",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664222868/Certificados%20Platzi/diploma-redux_nzeuhw.jpg",
     alt: " Certificado Redux",
     desc: "Redux",
