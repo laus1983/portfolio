@@ -13,6 +13,31 @@ const slidesInfo = [
     desc: "Docker",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1671143972/Certificados%20Platzi/diploma-react-native_page-0001_yvmxtv.jpg",
+    alt: " Certificado React Native",
+    desc: "Introducción A React Native",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1671143932/Certificados%20Platzi/diploma-react-native-listas-apis_page-0001_xqxxe1.jpg",
+    alt: " Certificado React Native Listas y APIs",
+    desc: "React Native Listas y APIs",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673307772/Certificados%20Platzi/diploma-react-native-formularios-almacenamiento_page-0001_it3aum.jpg",
+    alt: " Certificado React Native Formularios y Almacenamiento",
+    desc: "React Native Formularios y Almacenamiento",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673307745/Certificados%20Platzi/diploma-react-native-cli_page-0001_bzxipr.jpg",
+    alt: " Certificado React Native CLI",
+    desc: "React Native CLI",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673307816/Certificados%20Platzi/diploma-arrays_page-0001_ik2alt.jpg",
+    alt: " Certificado Manipulación de Arrays",
+    desc: "Manipulación de Arrays",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664222868/Certificados%20Platzi/diploma-redux_nzeuhw.jpg",
     alt: " Certificado Redux",
     desc: "Redux",
