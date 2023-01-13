@@ -10,6 +10,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   width: 55%;
   padding: 0 100px 0 100px;
 }
@@ -29,6 +30,27 @@
   display: flex;
   align-self: center;
   overflow: hidden;
+}
+
+.download-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: auto;
+  background-color: #000;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.download-btn:hover {
+  background-color: #fff;
+  color: #000;
+  border: 3px solid #000;
 }
 
 @media only screen and (max-width: 960px) {

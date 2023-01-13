@@ -20,3 +20,10 @@
   color: white;
   cursor: pointer;
 }
+
+.logo-img {
+  height: 70px;
+  width: 70px;
+  margin: 7px 0 7px 0;
+  padding: 10px;
+}
