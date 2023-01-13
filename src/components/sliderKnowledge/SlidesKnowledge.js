@@ -33,6 +33,11 @@ const slidesInfo = [
     desc: "React Native CLI",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673565098/Certificados%20Platzi/diploma-typescript_page-0001_tokt4o.jpg",
+    alt: " Certificado Typescript",
+    desc: "Fundamentos de Typescript",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673307816/Certificados%20Platzi/diploma-arrays_page-0001_ik2alt.jpg",
     alt: " Certificado Manipulación de Arrays",
     desc: "Manipulación de Arrays",
