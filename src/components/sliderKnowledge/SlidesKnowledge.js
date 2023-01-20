@@ -38,6 +38,11 @@ const slidesInfo = [
     desc: "Fundamentos de Typescript",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1674230206/Certificados%20Platzi/diploma-typescript-tipos-avanzados_page-0001_xrsrg7.jpg",
+    alt: " Certificado Typescript Tipos Avanzados",
+    desc: "Typescript Tipos Avanzados y Funciones",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673307816/Certificados%20Platzi/diploma-arrays_page-0001_ik2alt.jpg",
     alt: " Certificado Manipulación de Arrays",
     desc: "Manipulación de Arrays",
