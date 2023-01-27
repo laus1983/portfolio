@@ -43,6 +43,11 @@ const slidesInfo = [
     desc: "Typescript Tipos Avanzados y Funciones",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1674851648/Certificados%20Platzi/diploma-typescript-poo_page-0001_xvd236.jpg",
+    alt: " Certificado Typescript POO",
+    desc: "Typescript POO",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673307816/Certificados%20Platzi/diploma-arrays_page-0001_ik2alt.jpg",
     alt: " Certificado Manipulación de Arrays",
     desc: "Manipulación de Arrays",
