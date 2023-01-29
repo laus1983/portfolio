@@ -48,6 +48,11 @@ const slidesInfo = [
     desc: "Typescript POO",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1674950108/HackerRank/javascript_basic_certificate_page-0001_wvwk6u.jpg",
+    alt: " Certificado HackerRank Javascript Basic",
+    desc: "HackerRank Javascript Basic",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1673307816/Certificados%20Platzi/diploma-arrays_page-0001_ik2alt.jpg",
     alt: " Certificado Manipulación de Arrays",
     desc: "Manipulación de Arrays",
