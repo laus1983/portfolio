@@ -6,8 +6,8 @@ const slidesInfo = [
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664221260/Portfolio_Images/Imagen_PI_bwviev.png",
     alt: "Project 1",
     desc: "Project 1",
-    title: "Project 1",
-    href: "https://luisurdaneta-pi.netlify.app/",
+    title: "Countries APP",
+    href: "https://countries.luisurdaneta.com/",
   },
   {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664221258/Portfolio_Images/Imagen_PF_xuzzvv.jpg",
