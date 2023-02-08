@@ -4,8 +4,8 @@ import "./Slider.css";
 const slidesInfo = [
   {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664221260/Portfolio_Images/Imagen_PI_bwviev.png",
-    alt: "Project 1",
-    desc: "Project 1",
+    alt: "Countries APP",
+    desc: "Countries APP",
     title: "Countries APP",
     href: "https://countries.luisurdaneta.com/",
   },
