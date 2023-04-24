@@ -8,9 +8,39 @@ const slidesInfo = [
     desc: "Full Stack Web Developer",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1682114148/Certificados%20Platzi/diploma-javascript-30-dias_page-0001_ecjxij.jpg",
+    alt: " Certificado JavaScript 30 días",
+    desc: " JavaScript 30 días",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1669333509/Certificados%20Platzi/diploma-docker_page-0001_lkxhxg.jpg",
     alt: " Certificado Docker",
     desc: "Docker",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1677275632/Certificados%20Platzi/diploma-npm_page-0001_nrzudb.jpg",
+    alt: " Certificado NPM",
+    desc: "NPM",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1677113194/Certificados%20Platzi/diploma-figma-basico_page-0001_fp1nif.jpg",
+    alt: " Certificado Figma Básico",
+    desc: "Figma Básico",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1682364686/Certificados%20Platzi/diploma-librerias-react_page-0001_ppewid.jpg",
+    alt: " Certificado Librerías UI React",
+    desc: "Librerías UI React",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1677275866/Certificados%20Platzi/diploma-material-ui_page-0001_iksvps.jpg",
+    alt: " Certificado Material UI",
+    desc: "Material UI",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1682364686/Certificados%20Platzi/diploma-algoritmos-avanzados-entrevistas_page-0001_pyfkkq.jpg",
+    alt: " Certificado Algoritmos y Estructuras de Datos Avanzadas para Entrevistas",
+    desc: "Algoritmos y Estructuras de Datos Avanzadas para Entrevistas",
   },
   {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1671143972/Certificados%20Platzi/diploma-react-native_page-0001_yvmxtv.jpg",
