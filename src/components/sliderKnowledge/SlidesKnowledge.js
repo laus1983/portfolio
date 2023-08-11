@@ -13,6 +13,11 @@ const slidesInfo = [
     desc: " JavaScript 30 días",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1691795807/Certificados%20Platzi/diploma-patrones-diseno-software_page-0001_mlyres.jpg",
+    alt: " Certificado Introduccion a los Patrones de Diseño de Software",
+    desc: " Introduccion a los Patrones de Diseño de Software",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1691786941/Certificados%20Platzi/diploma-servidores-linux_page-0001_wulqxg.jpg",
     alt: " Certificado Administración de Servidores Linux",
     desc: "Administración de Servidores Linux",
