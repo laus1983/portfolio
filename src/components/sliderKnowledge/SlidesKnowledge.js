@@ -13,6 +13,36 @@ const slidesInfo = [
     desc: " JavaScript 30 días",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1691786941/Certificados%20Platzi/diploma-servidores-linux_page-0001_wulqxg.jpg",
+    alt: " Certificado Administración de Servidores Linux",
+    desc: "Administración de Servidores Linux",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1691786941/Certificados%20Platzi/diploma-react-webpack-sass_page-0001_xfaxux.jpg",
+    alt: " Certificado React Webpack y Sass",
+    desc: "React Webpack y Sass",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1691786941/Certificados%20Platzi/diploma-react-typescript_page-0001_hwcfqz.jpg",
+    alt: " Certificado React TypeScript",
+    desc: "React TypeScript",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1691787964/Certificados%20Codigofacilito/Certificado_-_Curso_de_React_con_Typescript_page-0001_nig7sk.jpg",
+    alt: " Certificado React con TypeScript",
+    desc: "React con TypeScript",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1685053498/Certificados%20Platzi/diploma-linux_page-0001_gjkjnl.jpg",
+    alt: " Certificado Linux",
+    desc: "Linux",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1684697681/Certificados%20Platzi/diploma-terminal_page-0001_wj9fd7.jpg",
+    alt: " Certificado Terminal y Línea de Comandos",
+    desc: "Terminal y Línea de Comandos",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1669333509/Certificados%20Platzi/diploma-docker_page-0001_lkxhxg.jpg",
     alt: " Certificado Docker",
     desc: "Docker",
@@ -41,6 +71,11 @@ const slidesInfo = [
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1682364686/Certificados%20Platzi/diploma-algoritmos-avanzados-entrevistas_page-0001_pyfkkq.jpg",
     alt: " Certificado Algoritmos y Estructuras de Datos Avanzadas para Entrevistas",
     desc: "Algoritmos y Estructuras de Datos Avanzadas para Entrevistas",
+  },
+  {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1691787997/Certificados%20Codigofacilito/Certificado_-_Curso_de_React_Native_page-0001_kqobye.jpg",
+    alt: " Certificado React Native",
+    desc: "React Native",
   },
   {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1671143972/Certificados%20Platzi/diploma-react-native_page-0001_yvmxtv.jpg",
