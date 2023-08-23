@@ -10,6 +10,13 @@ const slidesInfo = [
     href: "https://countries.luisurdaneta.com/",
   },
   {
+    src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1692753008/Portfolio_Images/lazy-loading-app_eopzx4.png",
+    alt: "Lazy Loading APP",
+    desc: "Lazy Loading APP",
+    title: "Lazy Loading APP",
+    href: "https://lazy-loading-app.vercel.app/",
+  },
+  {
     src: "https://res.cloudinary.com/dzoshddvt/image/upload/v1664221258/Portfolio_Images/Imagen_PF_xuzzvv.jpg",
     alt: "Project 2",
     desc: "Project 2",
